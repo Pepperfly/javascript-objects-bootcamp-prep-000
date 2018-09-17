@@ -1,5 +1,5 @@
 // Define an object called playlist
-
+var playlists = {};
 
 //
 
