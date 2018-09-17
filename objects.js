@@ -1,5 +1,5 @@
 // Define an object called playlist
-var playlists = {artistName: "A song name isn't an artist name"};
+var playlist = {artistName: "A song attributed to the artist"};
 
 //
 
